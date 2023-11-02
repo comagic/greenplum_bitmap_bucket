@@ -1,0 +1,4 @@
+# bitmap_bucket extension
+comment = 'Compact bitmap index for billions unique value (like primary key)'
+default_version = '0.1'
+relocatable = true
